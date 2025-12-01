@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center" style="color:#0EA5E9;">🔥 Bilong  🔥</h1>
+<p align="center">💻 BSIT Student | Gamer | Future Developer</p>
 
-<!--
-**Jimmy20156/Jimmy20156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Casual+Gamer;Always+Learning+Something+New" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 About Me
+- 📘 BS Information Technology student at Caraga State University – Cabadbaran Campus
+- 🧩 Into coding, tech, and exploring how systems work    
+- ⚔️ Balanced between creativity, gaming, and tech skill-building  
+
+---
+
+## 🔧 Skills & Tools  
+<p>
+  <img src="https://img.shields.io/badge/HTML-0EA5E9?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-0369A1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- 🎯 Git & GitHub workflow  
+- 🧩 Python programming  
+- ⚙️ Problem-solving & logic  
+- 🖥️ Design basics (UI/UX)  
+- 🗂️ Organizing code projects  
+
+---
+
+## 💀 Gamer Facts / Interests  
+- 🎮 Plays games for strategy, focus, and fun  
+- 🔥 Big on action, FPS, and adventure genres  
+- 👾 Into K-dramas & horror movies during chill days  
+- 💙 Favorite colors: dark blue, navy, black  
+- ✏️ Sketches clothing ideas when creativity strikes  
+
+---
+
+## 🎧 Aesthetic Divider  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer"/>
+</p>
