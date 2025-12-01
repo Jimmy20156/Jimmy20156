@@ -36,6 +36,13 @@
 - VS Code ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - Figma 🎨 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+![Jimmy20156's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy20156&show_icons=true&theme=radical)
+
+## 📝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy20156&layout=compact&theme=radical)
 
 ---
 
@@ -48,9 +55,9 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/j.maraganas.20)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bilongggg_20?igsh=aGNqeTdzdDRtbWpq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jimmy20156)
 
 ---
 
