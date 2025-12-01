@@ -15,14 +15,6 @@
 
 ---
 
-## 🔧 Skills & Tools  
-<p>
-  <img src="https://img.shields.io/badge/HTML-0EA5E9?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0369A1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 ---
 
 ## 🧠 Currently Learning
