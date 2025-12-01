@@ -3,7 +3,7 @@
 <p align="center">💻 BSIT Student | Gamer | Future Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Casual+Gamer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Curious+about+new+things" />
 </p>
 
 ---
@@ -26,13 +26,7 @@
 
 ---
 
-## 💀 Gamer Facts / Interests  
-- 🎮 Plays games for strategy, focus, and fun  
-- 🔥 Big on action, FPS, and adventure genres  
-- 👾 Into K-dramas & horror movies during chill days  
-- 💙 Favorite colors: dark blue, navy, black  
-- ✏️ Sketches clothing ideas when creativity strikes  
 
----
+
 
 
