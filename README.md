@@ -36,13 +36,6 @@
 - VS Code ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - Figma 🎨 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Bilongggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilongggg&show_icons=true&theme=radical)
-
-## 📝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilongggg&layout=compact&theme=radical)
 
 ---
 
