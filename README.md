@@ -41,14 +41,12 @@
 ## 📊 GitHub Stats
 ![Jimmy20156's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy20156&show_icons=true&theme=radical)
 
-## 📝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy20156&layout=compact&theme=radical)
 
 
 ---
 
 ## 🎯 Fun Facts & Hobbies
-- 🎮 Gamer – loves RPGs and strategy games  
+- 🎮 Gamer – loves mobile and strategy games  
 - 📚 Always reading about AI and emerging tech  
 - ☕ Coffee enthusiast ☕  
 - 🚀 Aspiring full-stack developer  
